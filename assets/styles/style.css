@@ -1,0 +1,10 @@
+/**
+ * Admin MetaBoxes
+ */
+.inside-no-padding .inside {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.inside-no-padding .inside table {
+    border: none !important;
+}
